@@ -1,0 +1,6 @@
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\bin\Debug\SackHeapWork.exe.config
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\bin\Debug\SackHeapWork.exe
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\bin\Debug\SackHeapWork.pdb
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\obj\Debug\SackHeapWork.csprojResolveAssemblyReference.cache
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\obj\Debug\SackHeapWork.exe
+D:\堆栈深入简出的理解\SackHeapWork\SackHeapWork\obj\Debug\SackHeapWork.pdb
